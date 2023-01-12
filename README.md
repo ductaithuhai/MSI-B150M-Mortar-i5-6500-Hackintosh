@@ -18,3 +18,14 @@
 | USBPort                | Manual         |
 
   </details>
+
+
+# Resources
+
+* [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+* [Dortania build-repo](https://github.com/dortania/build-repo/releases)
+
+# Tools
+* [Hackintool](https://github.com/headkaze/Hackintool)
+* [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/)
+* [OC X Gen](https://github.com/Pavo-IM/OC-Gen-X)
