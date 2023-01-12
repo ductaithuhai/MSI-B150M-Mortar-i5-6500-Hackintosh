@@ -2,7 +2,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.5.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![macOS-Stable](https://img.shields.io/badge/macOS-10.15.7-brightgreen.svg)](https://www.apple.com/macos/monterey)
 
-
+<details>
 <summary><strong>Kernel extensions</strong></summary>
 <br>
 
@@ -16,3 +16,5 @@
 | SMCProcessor           | 1.3.0          |
 | SMCSuperIO             | 1.3.0          |
 | USBPort                | Manual         |
+
+  </details>
